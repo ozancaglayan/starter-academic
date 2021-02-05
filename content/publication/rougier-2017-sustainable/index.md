@@ -19,7 +19,7 @@ authors:
 tags: []
 categories: []
 date: '2017-12-01'
-lastmod: 2021-02-05T23:30:56Z
+lastmod: 2021-02-05T23:49:00Z
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-05T23:33:45.076492Z'
+publishDate: '2021-02-05T23:49:00.514317Z'
 publication_types:
 - '2'
 abstract: 'Computer science offers a large set of tools for prototyping, writing,

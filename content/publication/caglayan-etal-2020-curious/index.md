@@ -11,8 +11,8 @@ authors:
 tags: []
 categories: []
 date: '2020-12-01'
-lastmod: 2021-02-05T23:30:57Z
-featured: false
+lastmod: 2021-02-05T23:49:01Z
+featured: true
 draft: false
 
 # Featured image
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-05T23:33:46.282296Z'
+publishDate: '2021-02-05T23:49:01.644179Z'
 publication_types:
 - '1'
 abstract: Automatic evaluation of language generation systems is a well-studied problem

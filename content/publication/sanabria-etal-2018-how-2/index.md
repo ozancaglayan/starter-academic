@@ -15,8 +15,8 @@ authors:
 tags: []
 categories: []
 date: '2018-12-01'
-lastmod: 2021-02-05T23:30:56Z
-featured: false
+lastmod: 2021-02-05T23:49:01Z
+featured: true
 draft: false
 
 # Featured image
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-05T23:33:45.461471Z'
+publishDate: '2021-02-05T23:49:00.880361Z'
 publication_types:
 - '1'
 abstract: In this paper, we introduce How2, a multimodal collection of instructional

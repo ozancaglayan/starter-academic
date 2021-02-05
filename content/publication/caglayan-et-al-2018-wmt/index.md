@@ -16,7 +16,7 @@ authors:
 tags: []
 categories: []
 date: '2018-10-01'
-lastmod: 2021-02-05T23:30:56Z
+lastmod: 2021-02-05T23:49:00Z
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-05T23:33:45.203282Z'
+publishDate: '2021-02-05T23:49:00.637632Z'
 publication_types:
 - '1'
 abstract: This paper describes the multimodal Neural Machine Translation systems developed

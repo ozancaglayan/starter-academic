@@ -12,8 +12,8 @@ authors:
 tags: []
 categories: []
 date: '2019-06-01'
-lastmod: 2021-02-05T23:30:56Z
-featured: false
+lastmod: 2021-02-05T23:49:01Z
+featured: true
 draft: false
 
 # Featured image
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-05T23:33:45.715830Z'
+publishDate: '2021-02-05T23:49:01.146051Z'
 publication_types:
 - '1'
 abstract: Current work on multimodal machine translation (MMT) has suggested that
