@@ -89,7 +89,7 @@ During summer 2018, I visited *Johns Hopkins University* as a graduate student i
 Between 2012-2017, I worked as a research & teaching assistant in the Computer Engineering Dept. of Galatasaray University in Istanbul, Turkey
 where I lectured practical sessions for undergraduate courses such as *Algorithms, C Programming, Microprocessors and Operating Systems.*
 I obtained my MSc. degree from Galatasaray University as well where I developed a simple embedded system for a Brain-computer Interface
-application. You can access my MSc. thesis from [here](/files/msc.pdf).
+application. You can access my MSc. thesis from [here](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=48XPj7KKQhKUgntkUiKO3HIxE1L99sARgkMEV4zBK8-3EiHlxIznHi1lr3F90GMf).
 
 Between 2007-2012, I took part in the [Pardus Linux](https://en.wikipedia.org/wiki/Pardus_(operating_system)) project within the
 *Scientific & Technological Research Council of Turkey (TUBITAK)* as a full-time Linux developer.
