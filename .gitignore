@@ -6,3 +6,5 @@
 public/
 jsconfig.json
 node_modules/
+
+static/media/cv.pdf
