@@ -6,5 +6,4 @@ popd
 
 cp ../CV/cv.pdf static/media
 git pull
-hugo --gc --minify -f https://www.ozancaglayan.com
-
+hugo --gc --minify -f https://www.ozancaglayan.com -d /var/www/ozancaglayan
