@@ -6,5 +6,5 @@ popd
 
 cp ../CV/cv.pdf static/media
 git pull
-academic import --bibtex citations.bib --overwrite
+academic import --bibtex citations.bib
 hugo --gc --minify -b https://www.ozancaglayan.com -d /var/www/ozancaglayan
