@@ -13,7 +13,7 @@ authors:
 - Marc Masana
 - Luis Herranz
 - Joost van de Weijer
-tags: []
+tags: ['Multimodal MT', 'WMT']
 categories: []
 date: '2018-10-01'
 lastmod: 2021-02-06T00:00:33Z

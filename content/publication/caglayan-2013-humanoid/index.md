@@ -7,8 +7,8 @@ summary: ''
 authors:
 - Ozan Caglayan
 - Reis Burak Arslan
-tags: []
-categories: []
+tags: ['BCI', 'Embedded Systems']
+categoris: []
 date: '2013-06-01'
 lastmod: 2021-02-06T00:00:32Z
 featured: false

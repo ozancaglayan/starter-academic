@@ -12,7 +12,7 @@ authors:
 - Löic Barrault
 - Lucia Specia
 - Florian Metze
-tags: []
+tags: ['Resource', 'Multimodality']
 categories: []
 date: '2018-12-01'
 lastmod: 2021-02-06T00:00:33Z

@@ -11,7 +11,7 @@ authors:
 - Pranava Madhyastha
 - Loı̈c Barrault
 - Lucia Specia
-tags: []
+tags: ['Simultaneous MT', 'Multimodal MT']
 categories: []
 date: '2020-11-01'
 lastmod: 2021-02-06T00:00:34Z

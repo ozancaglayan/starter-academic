@@ -10,7 +10,7 @@ authors:
 - S. Palaskar
 - L. Barraul
 - F. Metze
-tags: []
+tags: ['Speech Recognition', 'Multimodality']
 categories: []
 date: '2019-05-01'
 lastmod: 2021-02-06T00:00:33Z

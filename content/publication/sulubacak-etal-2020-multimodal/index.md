@@ -12,7 +12,7 @@ authors:
 - Desmond Elliott
 - Lucia Specia
 - Jörg Tiedemann
-tags: []
+tags: ['Survey', 'Multimodal MT']
 categories: []
 date: '2020-01-01'
 lastmod: 2021-02-06T00:00:33Z

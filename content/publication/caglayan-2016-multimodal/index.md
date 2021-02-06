@@ -8,7 +8,7 @@ authors:
 - Ozan Caglayan
 - Loı̈c Barrault
 - Fethi Bougares
-tags: []
+tags: ['Multimodal MT']
 categories: []
 date: '2016-09-01'
 lastmod: 2021-02-06T00:00:32Z

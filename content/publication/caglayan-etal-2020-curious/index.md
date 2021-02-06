@@ -8,7 +8,7 @@ authors:
 - Ozan Caglayan
 - Pranava Madhyastha
 - Lucia Specia
-tags: []
+tags: ['Evaluation', 'MT', 'Metrics']
 categories: []
 date: '2020-12-01'
 lastmod: 2021-02-06T00:00:34Z

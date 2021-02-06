@@ -10,7 +10,7 @@ authors:
 - Julia Ive
 - Josiah Wang
 - Lucia Specia
-tags: []
+tags: ['IWSLT', 'Speech Translation']
 categories: []
 date: '2019-01-01'
 lastmod: 2021-02-06T00:00:33Z
