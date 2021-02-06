@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2013-06-01'
-lastmod: 2021-02-05T23:48:59Z
+lastmod: 2021-02-06T00:00:32Z
 featured: false
 draft: false
 
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-05T23:48:59.764256Z'
+publishDate: '2021-02-06T00:00:32.234028Z'
 publication_types:
 - '1'
 abstract: In this study we implemented a low-cost, single EEG channel brain computer

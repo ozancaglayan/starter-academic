@@ -15,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2020-01-01'
-lastmod: 2021-02-05T23:49:01Z
+lastmod: 2021-02-06T00:00:33Z
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-05T23:49:01.390737Z'
+publishDate: '2021-02-06T00:00:33.824981Z'
 publication_types:
 - '2'
 abstract: 'Multimodal machine translation involves drawing information from more than

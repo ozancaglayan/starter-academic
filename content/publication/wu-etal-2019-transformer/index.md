@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2021-02-05T23:49:01Z
+lastmod: 2021-02-06T00:00:33Z
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-05T23:49:01.264536Z'
+publishDate: '2021-02-06T00:00:33.681382Z'
 publication_types:
 - '1'
 abstract: This paper describes the cascaded multimodal speech translation systems

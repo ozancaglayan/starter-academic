@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2017-09-01'
-lastmod: 2021-02-05T23:49:00Z
+lastmod: 2021-02-06T00:00:32Z
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-05T23:49:00.390681Z'
+publishDate: '2021-02-06T00:00:32.872020Z'
 publication_types:
 - '1'
 abstract: This paper describes LIUM submissions to WMT17 News Translation Task for
