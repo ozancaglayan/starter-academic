@@ -35,6 +35,14 @@ experience:
           the NLP course.
         * Co-supervision of MSc. students.
 
+  - title: Visiting Researcher
+    company: Center for Language & Speech Processing, Johns Hopkins University
+    company_url: 'https://www.clsp.jhu.edu'
+    location: Baltimore, USA
+    date_start: '2018-06-11'
+    date_end: '2018-08-04'
+    description: Participated to the Fifth Frederick Jelinek Memorial Summer Workshop (JSALT)
+
   - title: PhD Student, Researcher
     company: LIUM - Le Mans Université
     company_url: 'https://lium.univ-lemans.fr/en/'
