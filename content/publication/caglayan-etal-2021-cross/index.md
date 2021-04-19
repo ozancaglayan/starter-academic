@@ -47,5 +47,6 @@ abstract: Pre-trained language models have been shown to improve performance in 
   grounded representations.
 publication: '*Proceedings of the 16th Conference of the European Chapter of the Association
   for Computational Linguistics: Main Volume*'
-url_pdf: https://www.aclweb.org/anthology/2021.eacl-main.112
+url_pdf: https://www.aclweb.org/anthology/2021.eacl-main.112.pdf
+url_code: https://github.com/ImperialNLP/VTLM
 ---
