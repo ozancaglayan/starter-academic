@@ -11,7 +11,7 @@ role: Dr, Research Associate
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Imperial College London
-  url: https://www.stanford.edu/
+- name: contex.ai
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
