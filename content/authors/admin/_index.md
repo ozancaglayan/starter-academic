@@ -6,12 +6,13 @@ title: Ozan Caglayan
 superuser: true
 
 # Role/position/tagline
-role: Dr, Research Associate
+role: Dr, Senior Research Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Imperial College London
 - name: contex.ai
+  url: https://www.linkedin.com/company/contex-ai
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -20,10 +21,12 @@ organizations:
 interests:
 - Deep Neural Nets
 - Natural Language Processing
+- Speech Processing
 - Linguistics
 - Open-Source & Linux
 - DIY Electronics & Maker
 - Photography
+- Woodworking
 
 # Education to show in About widget
 education:
@@ -81,10 +84,15 @@ email: ""
 highlight_name: true
 ---
 
-I am a postdoctoral research associate in Imperial College London with a focus
-on multimodal language learning. I received my [PhD](http://theses.fr/s131764) in 2019 from the Informatics Laboratory (LIUM) of Le Mans University.
+I am a computer scientist from Turkey, working on problems related to natural language processing.
+I received my [PhD](http://theses.fr/s131764) in 2019 from the Informatics Laboratory (LIUM) of Le Mans University.
 During summer 2018, I visited *Johns Hopkins University* as a graduate student in the
-[Grounded Sequence to Sequence Transduction Team](https://www.clsp.jhu.edu/workshops/18-workshop/grounded-sequence-sequence-transduction), within the [JSALT](https://www.clsp.jhu.edu/workshops/18-workshop/about) workshop.
+[Grounded Sequence to Sequence Transduction Team](https://www.clsp.jhu.edu/workshops/18-workshop/grounded-sequence-sequence-transduction), as part of the [JSALT](https://www.clsp.jhu.edu/workshops/18-workshop/about) workshop.
+
+I am currently a senior research engineer at [contex.ai](https://www.linkedin.com/company/contex-ai),
+a start-up company trying to solve the immense problem of online toxic content moderation,
+by leveraging contextual and multimodal machine learning techniques.
+Previously, I worked as a postdoctoral research associate with Prof. Lucia Specia, at Imperial College London.
 
 Between 2012-2017, I worked as a research & teaching assistant in the Computer Engineering Dept. of Galatasaray University in Istanbul, Turkey
 where I lectured practical sessions for undergraduate courses such as *Algorithms, C Programming, Microprocessors and Operating Systems.*

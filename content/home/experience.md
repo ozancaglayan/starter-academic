@@ -22,12 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Senior Research Engineer
+    company: contex.ai
+    company_url: https://www.linkedin.com/company/contex-ai
+    location: London, United Kingdom
+    date_start: '2022-01-01'
+    date_end: ''
+    description: Research and engineering of a machine learning framework focusing on toxic content moderation.
+
   - title: Research Associate
     company: Imperial College London
     company_url: 'https://www.imperial.ac.uk'
     location: London, United Kingdom
     date_start: '2019-07-22'
-    date_end: ''
+    date_end: '2021-12-31'
     description: |2-
         * Research on vision & language processing related topics such as
           image captioning, multimodal machine translation.
